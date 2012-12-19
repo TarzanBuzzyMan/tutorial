@@ -6,7 +6,7 @@ public class CommonProxy {
 	// Client stuff
 	public static String ITEMS_PNG = "/tutorial/generic/items.png";
 	public static String BLOCK_PNG = "/tutorial/generic/block.png";
-	public static String MODEL_PNG = ".tutorial/generic/model.png";
+	public static String MODEL_PNG = "/tutorial/generic/model.png";
 	
 	//Server stuff
 	public void preInit() {
